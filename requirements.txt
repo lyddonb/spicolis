@@ -1,0 +1,2 @@
+git+git://github.com/miracle2k/webassets.git
+flake8
