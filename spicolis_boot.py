@@ -1,5 +1,9 @@
 import os
 
+from utils import setup_environ
+
+setup_environ()
+
 from google.appengine.ext.webapp.util import run_wsgi_app
 
 from spicolis import create_application
