@@ -19,3 +19,18 @@ def create_application(conf=None):
 @site.route("/")
 def home():
     return ''
+
+
+@site.route("/events")
+def events():
+    return ''
+
+
+@site.route("/specials")
+def specials():
+    return ''
+
+
+@site.route("/about")
+def about():
+    return ''
