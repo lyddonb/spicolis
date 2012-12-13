@@ -1,2 +1,12 @@
-git+git://github.com/miracle2k/webassets.git
-flake8
+Flask==0.9
+Jinja2==2.6
+NoseGunit==0.0.1
+Werkzeug==0.8.3
+coverage==3.6b1
+flake8==1.6.2
+mock==1.0.1
+nose==1.2.1
+python-termstyle==0.1.10
+rednose==0.3.3
+webassets==0.9.dev
+wsgiref==0.1.2
